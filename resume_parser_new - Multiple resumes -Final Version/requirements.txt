@@ -13,3 +13,13 @@ pytesseract==0.3.10
 pdf2image==1.16.3
 docx2txt==0.8
 certifi==2023.11.17
+flask
+gunicorn
+python-docx
+pdfminer.six
+pandas
+openai
+plotly
+docx2txt
+scikit-learn
+sentence-transformers
